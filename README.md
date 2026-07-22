@@ -46,8 +46,8 @@ This project presents an interactive Power BI dashboard for analyzing Amazon sal
 Amazon Sales Dataset
 
 ##  Dashboard Preview
+![amazon sales dashboard](dashboard.png)
 
-amazon sales dashboard.pbix
 ##  Key Insights
 - Identified top-performing product categories.
 - Analyzed monthly sales trends.
