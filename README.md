@@ -47,7 +47,7 @@ Amazon Sales Dataset
 
 ##  Dashboard Preview
 
-https://github.com/japuvaishnavi-lang/Amazon-sales-dashboard-powerbi/blob/main/amazon%20sales%20dashboard.pbix
+amazon sales dashboard.pbix
 ##  Key Insights
 - Identified top-performing product categories.
 - Analyzed monthly sales trends.
